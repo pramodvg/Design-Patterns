@@ -1,0 +1,14 @@
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+E:\Conestoga stuff\System Development\Assignment4\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+E:\Conestoga stuff\System Development\Assignment4\All Design Patterns Code\Abstract_Factory_Design_Patterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
